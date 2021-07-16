@@ -1,0 +1,24 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "creating team profile from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camjofindlay17/team-profile-generator.git"
+  },
+  "author": "camjofindlay17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camjofindlay17/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/camjofindlay17/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
